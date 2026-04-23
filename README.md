@@ -8,6 +8,7 @@ Over the years, I’ve led initiatives across software development, AI systems, 
 ---
 
 ## 🧭 What I’m Working On
+   **ArrowFin** — Sr. PM for EdgeClear's development arm. 
 
 ⚡ **D&D Electric** — real-world venture focused on delivering the best residential and commercial services to the Puget Sound.  
 
