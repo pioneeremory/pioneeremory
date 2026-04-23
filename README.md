@@ -9,7 +9,6 @@ Over the years, I’ve led initiatives across software development, AI systems, 
 
 ## 🧭 What I’m Working On
 
-💥 **Stimpak Duels** — gamified PvP trading platform on Arbitrum, integrating GMX and Cyfrin-audited smart contracts to create social, skill-based trading competitions.  
 ⚡ **D&D Electric** — real-world venture focused on delivering the best residential and commercial services to the Puget Sound.  
 
 ---
@@ -27,7 +26,7 @@ Currently learning Full Stack w/ Code Patoon Bootcamp: Python • JavaScript •
 
 ## 💼 Professional Highlights
 
-- **Chief Product Officer (CPO)** – Led product strategy, design, and go-to-market for a fintech startup developing enhanced AI agent wallets.  
+- **Chief Product Officer (CPO)** – Led product strategy, design, and go-to-market for a fintech startup developing enhanced AI agent wallets and one of the largest perpetual trading platforms on the Arbitrum blockchain.  
 - **CoFounder, Stimpak** – Built gamified DeFi applications, securing Arbitrum DAO grants and GMX sponsorships.  
 - **Entrepreneur & Operator** – Founded and scaled multiple real-world businesses, including electrical contracting and promotional product supply.  
 - **US Army Veteran** – Leveraged discipline, leadership, and mission focus into civilian entrepreneurship and product leadership.  
